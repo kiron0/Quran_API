@@ -1,10 +1,10 @@
-﻿# Welcome to Quran full API
+﻿# Welcome to Quran Full API
 
-# Recite by <a href="https://en.wikipedia.org/wiki/Mishary_bin_Rashid_Alafasy"> `Mishary Bin Rashid Alafasy` </a>
+# Recited by <a href="https://en.wikipedia.org/wiki/Mishary_bin_Rashid_Alafasy"> `Mishary Bin Rashid Alafasy` </a>
 
 ## How to Use This API?
 
-- `https://github.com/Treposting/Surah-API/blob/main/Surah/[:id].mp3?raw=true`
+- `https://github.com/kiron0/Quran_API/blob/main/Surah/[:id].mp3?raw=true`
 
 - Just replace the `[:id]` with the surah number.
 

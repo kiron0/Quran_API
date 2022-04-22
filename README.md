@@ -4,7 +4,9 @@
 
 ## How to Use This API?
 
-- `https://github.com/kiron0/Quran_API/blob/main/Surah/[:id].mp3?raw=true`
+```javascript
+https://github.com/kiron0/Quran_API/blob/main/Surah/[:id].mp3?raw=true
+```
 
 - Just replace the `[:id]` with the surah number.
 
